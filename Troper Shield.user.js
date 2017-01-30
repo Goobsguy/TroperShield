@@ -9,7 +9,7 @@
 
 (function() {
     'use strict';
-
+// Deletion area. This is the heart of the userscript.
     $('.btn-group.user-account').remove(); // Removes the login button
     $('.sidebar-section:has(.list-inline.social-box)').remove(); // Removes the "community" area of the sidebar.
     $('.secondary-nav.tuck-menu.sec-nav').remove(); // Removes the top bar of pages, which allows you to edit.
