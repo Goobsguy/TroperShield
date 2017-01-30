@@ -2,7 +2,7 @@
 // @name         Troper Shield
 // @namespace    http://tampermonkey.net/
 // @version      1
-// @description  Limits interaction with TvTropes, including cutting out mostevery feature related to editing and socializing.
+// @description  Limits interaction with TvTropes, including cutting out most features related to editing and socializing.
 // @author       Goobsguy
 // @match        http://tvtropes.org/*
 // ==/UserScript==
